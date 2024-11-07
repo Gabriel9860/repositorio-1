@@ -1,113 +1,99 @@
 criaCartao(
-   'Química - Tabela Periódica',
-   'O que são elementos representativos na Tabela Periódica?',
-   'Elementos representativos são aqueles localizados nas colunas 1A, 2A, 3A, 4A, 5A, 6A e 7A da tabela periódica, cujos átomos têm elétrons na camada de valência. Exemplos incluem o sódio (Na) e o oxigênio (O).'
-);
+   'Química ',
+ 'Qual é o elemento químico mais abundante no universo?',
+ 'Hidrogênio')
 
 criaCartao(
-   'Química - Reações Químicas',
-   'O que é uma reação de neutralização?',
-   'Uma reação de neutralização ocorre quando um ácido reage com uma base, formando água e um sal. Exemplo: HCl + NaOH → NaCl + H2O.'
-);
+  'História ',
+ 'Qual país é conhecido como o berço da democracia?',
+ 'Grécia')
 
 criaCartao(
-   'Biologia - Genética',
-   'O que é um alelo?',
-   'Um alelo é uma das várias formas alternativas de um gene, que pode determinar características específicas em um organismo, como a cor dos olhos.'
-);
+ 'História ',
+ 'Em que ano terminou a Segunda Guerra Mundial?',
+ '1945')
 
 criaCartao(
-   'Biologia - Ecologia',
-   'O que é um ecossistema?',
-   'Um ecossistema é um conjunto formado por seres vivos (fauna e flora) e os elementos não vivos (como o solo e a água) com os quais interagem em um determinado ambiente.'
-);
+ 'Geografia ',
+ 'Qual é o elemento químico mais abundante no universo?',
+ 'Os principais biomas são: Amazônia (floresta tropical úmida), Cerrado (savana), Mata Atlântica (floresta tropical), Caatinga (semiárido), Pantanal (planície al')
 
 criaCartao(
-   'Matemática - Funções',
-   'O que é uma função linear?',
-   'Uma função linear é uma função matemática representada por uma equação do tipo f(x) = ax + b, onde "a" e "b" são constantes.'
-);
+ 'Biologia ',
+ 'Qual é a função do ribossomo nas células?',
+ 'Os ribossomos são responsáveis pela síntese de proteínas, ligando os aminoácidos na ordem determinada pelo RNA mensageiro')
 
 criaCartao(
-   'Matemática - Geometria',
-   'Qual é a fórmula para calcular a área de um triângulo?',
-   'A área de um triângulo é dada pela fórmula: A = (base * altura) / 2.'
-);
+ 'Português',
+ 'Qual é a principal característica da obra literária de Machado de Assis?',
+ 'A obra de Machado de Assis é marcada pelo uso da ironia, pelo pessimismo em relação à natureza humana e por uma visão crítica das instituições sociais, especialmente na fase realista')
 
 criaCartao(
-   'História - Idade Antiga',
-   'O que foi a Pérsia antiga?',
-   'A Pérsia antiga foi um império que existiu entre os séculos VI a.C. e VII d.C. e ocupava o território do atual Irã. Foi uma das maiores civilizações da Antiguidade.'
-);
+  'História - Getúlio Vargas',
+  'Qual foi o principal objetivo do Estado Novo, instaurado por Getúlio Vargas em 1937?',
+  'Centralizar o poder nas mãos do governo federal, suprimindo liberdades democráticas e perseguindo opositores políticos.')
 
 criaCartao(
-   'História - Idade Média',
-   'O que foi a Queda de Constantinopla?',
-   'A Queda de Constantinopla ocorreu em 1453 e marcou o fim do Império Bizantino, quando a cidade foi conquistada pelos turcos otomanos, alterando o equilíbrio de poder na Europa e no Oriente Médio.'
-);
+  'História - Getúlio Vargas',
+  'Qual foi o impacto das políticas trabalhistas de Vargas na década de 1930?',
+  'Vargas implementou leis trabalhistas, como a CLT, garantindo direitos aos trabalhadores e fortalecendo sua base de apoio popular.')
 
 criaCartao(
-   'Português - Ortografia',
-   'Qual a diferença entre "c" e "ç" nas palavras?',
-   'O "c" é utilizado antes de "e" e "i" (como em "cena" e "cima"), enquanto o "ç" é utilizado antes de "a", "o" e "u" (como em "coração" e "candidato").'
-);
+  'Biologia - Genética',
+  'O que é um alelo?',
+  'Um alelo é uma das diferentes formas de um gene que pode existir em um local específico em um cromossomo.')
 
 criaCartao(
-   'Português - Concordância Verbal',
-   'O que é concordância verbal?',
-   'Concordância verbal é a concordância entre o verbo e o sujeito em número e pessoa. Por exemplo, "Eles cantam" (plural) e "Ele canta" (singular).'
-);
+  'Biologia - Genética',
+  'Explique o que é dominância incompleta.',
+  'Dominância incompleta ocorre quando o fenótipo do heterozigoto é uma mistura dos fenótipos dos dois homozigotos.')
 
 criaCartao(
-   'Química - Ligações Químicas',
-   'O que é uma ligação iônica?',
-   'A ligação iônica ocorre quando há a transferência de elétrons de um átomo para outro, formando íons de cargas opostas que se atraem. Exemplo: NaCl (cloreto de sódio).'
-);
+  'Matemática',
+  'Qual é a fórmula para calcular a área de um triângulo?',
+  'A = (base × altura) / 2.')
 
 criaCartao(
-   'Química - Soluções',
-   'O que é uma solução saturada?',
-   'Uma solução saturada é uma solução na qual a quantidade de soluto dissolvido atingiu o seu limite máximo, e não pode dissolver mais soluto a uma temperatura constante.'
-);
+  'Matemática',
+  'Qual é a definição de logaritmo?',
+  'Logaritmo é o expoente ao qual se deve elevar a base para obter um determinado número: log_b(a) = x, onde b^x = a.')
 
 criaCartao(
-   'Biologia - Evolução',
-   'O que é a teoria da evolução de Darwin?',
-   'A teoria da evolução de Darwin afirma que as espécies evoluem ao longo do tempo por meio de seleção natural, onde os indivíduos com características favoráveis têm mais chances de sobreviver e reproduzir.'
-);
+  'Português - Romantismo',
+  'Quais são as principais características do Romantismo na literatura?',
+  'Subjetivismo, exaltação da natureza, nacionalismo, idealização do amor e do herói.')
 
 criaCartao(
-   'Biologia - Sistema Circulatório',
-   'Qual a função do sistema circulatório?',
-   'O sistema circulatório é responsável por transportar sangue, oxigênio, nutrientes, hormônios e outros compostos vitais para as células do corpo.'
-);
+  'Português - Romantismo',
+  'Quem foi o principal autor do Romantismo no Brasil?',
+  'José de Alencar, com obras como “Iracema” e “O Guarani”.')
 
 criaCartao(
-   'Matemática - Álgebra',
-   'O que é uma equação do primeiro grau?',
-   'Uma equação do primeiro grau é uma equação algébrica em que a variável tem o expoente 1, como em ax + b = 0, onde "a" e "b" são constantes e "x" é a variável.'
-);
+  'História - Getúlio Vargas',
+  'Qual foi o impacto da Era Vargas na industrialização do Brasil?',
+  'Getúlio Vargas incentivou a industrialização através da criação de estatais, como a CSN, e da implementação de políticas protecionistas.')
 
 criaCartao(
-   'Matemática - Probabilidade',
-   'O que é probabilidade?',
-   'Probabilidade é a medida de quão provável é que um evento ocorra, expressa como um número entre 0 e 1, sendo 0 impossível e 1 certo. Exemplo: a probabilidade de sair cara ao lançar uma moeda é 1/2.'
-);
+  'Biologia - Genética',
+  'O que é o cruzamento test backcross?',
+  'É um cruzamento entre um indivíduo de fenótipo dominante com um homozigoto recessivo para determinar o genótipo do indivíduo dominante.')
 
 criaCartao(
-   'História - Revoluções',
-   'O que foi a Revolução Francesa?',
-   'A Revolução Francesa foi um movimento social e político iniciado em 1789, que resultou no fim da monarquia absolutista e na ascensão dos ideais republicanos na França.'
-)
+  'Matemática - Vestibular',
+  'O que é uma progressão aritmética (PA)?',
+  'É uma sequência de números em que cada termo é obtido somando-se uma constante ao termo anterior.')
 
 criaCartao(
-   'História - Primeira Guerra Mundial',
-   'Quais foram as principais causas da Primeira Guerra Mundial?',
-   'As principais causas da Primeira Guerra Mundial foram o imperialismo, o nacionalismo, as alianças militares e o assassinato do arquiduque Francisco Ferdinando da Áustria.'
-);
+  'Português - Romantismo',
+  'Como o Romantismo representava o índio na literatura brasileira?',
+  'O índio era idealizado como um herói nacional, corajoso e puro, simbolizando a identidade brasileira.')
 
 criaCartao(
-   'Português - Sintaxe',
-   'O que é um sujeito simples?',
-   'Um sujeito simples é aquele formado por um único núcleo, que pode ser um substantivo ou pronome. Exemplo: "O cachorro corre" (sujeito simples = "O cachorro").'
-);
+  'História - Getúlio Vargas',
+  'Como Getúlio Vargas chegou ao poder em 1930?',
+  'Vargas chegou ao poder através da Revolução de 1930, um golpe que depôs o presidente Washington Luís e impediu a posse de Júlio Prestes.')
+
+criaCartao(
+  'Biologia - Genética',
+  'Qual é a função do DNA nas células?',
+  'O DNA contém as instruções genéticas que controlam o desenvolvimento, funcionamento, crescimento e reprodução de todos os seres vivos.')
