@@ -98,7 +98,7 @@ criaCartao(
    'História - Revoluções',
    'O que foi a Revolução Francesa?',
    'A Revolução Francesa foi um movimento social e político iniciado em 1789, que resultou no fim da monarquia absolutista e na ascensão dos ideais republicanos na França.'
-);
+)
 
 criaCartao(
    'História - Primeira Guerra Mundial',
